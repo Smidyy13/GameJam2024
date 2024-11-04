@@ -1914,3 +1914,90 @@ LogInit: Object subsystem initialized
 [2024.11.04-03.59.34:265][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJam2024/GameJam2024/Saved/HMLO2JJ61B0EW0Z15HBXL8_Auto2A9924A834322BE8A5FCF48B2AF4CDF7B.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJam2024/GameJam2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/AngusTesticle/A/SX/HMLO2JJ61B0EW0Z15HBXL8_Auto2.uasset'
 [2024.11.04-03.59.34:266][265]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/AngusTesticle' took 0.011
 [2024.11.04-03.59.34:266][265]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.011
+[2024.11.04-04.04.00:252][410]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.11.04-04.04.35:346][362]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2024.11.04-04.04.35:346][362]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2024.11.04-04.04.35:348][362]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/FirstPerson/Maps/AngusTesticle.AngusTesticle:PersistentLevel.Actor_UAID_00BE43BC50EE382C02_1103284816
+[2024.11.04-04.04.35:348][362]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/FirstPerson/Maps/AngusTesticle.AngusTesticle:PersistentLevel.Actor_UAID_00BE43BC50EE382C02_1103284816
+[2024.11.04-04.04.39:585][862]LogDerivedDataCache: C:/Users/s5287338/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.217 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 796 files in 1446 folders with total size 64 MiB.
+[2024.11.04-04.05.05:918][852]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.04-04.05.08:635][146]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.04-04.05.09:767][280]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.04-04.05.12:608][619]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.04-04.05.16:597][ 53]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: ================================================
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Total job queries 76, among them cache hits 10 (13.16%)
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Tracking 57 distinct input hashes that result in 47 distinct outputs (82.46%)
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: RAM used: 1.17 MiB of 3.20 GiB budget. Usage: 0.04%
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Shaders Compiled: 15
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Jobs assigned 20, completed 15 (75.00%)
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Average time worker was idle: 2138.42 s
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Job execution time: average 1.77 s, max 4.40 s
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Job life time (pending + execution): average 1.82 s, max 4.50
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Shader code size: average 34.062 KiB, min 4.477 KiB, max 42.895 KiB
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.65 s
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Average processing rate: 1.55 jobs/sec
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Total thread time: 2.544 s
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Total thread preprocess time: 0.59 s
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Percentage time preprocessing: 23.20%
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Effective parallelization: 0.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.21 sec, max 0.25 sec, min 0.17 sec)
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.15 sec, max 0.17 sec, min 0.14 sec)
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.15 sec, max 0.15 sec, min 0.14 sec)
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display:                                                FAnisotropyVS (compiled    2 times, average 0.14 sec, max 0.14 sec, min 0.13 sec)
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    2 times, average 0.10 sec, max 0.11 sec, min 0.10 sec)
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.33% of total time (compiled    4 times, average 0.21 sec, max 0.25 sec, min 0.17 sec)
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.31% of total time (compiled    4 times, average 0.15 sec, max 0.17 sec, min 0.14 sec)
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.64% of total time (compiled    2 times, average 0.15 sec, max 0.15 sec, min 0.14 sec)
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display:                                                FAnisotropyVS - 10.78% of total time (compiled    2 times, average 0.14 sec, max 0.14 sec, min 0.13 sec)
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display:                                                FAnisotropyPS - 8.15% of total time (compiled    2 times, average 0.10 sec, max 0.11 sec, min 0.10 sec)
+[2024.11.04-04.05.56:437][770]LogShaderCompilers: Display: ================================================
+[2024.11.04-04.05.59:244][ 78]Cmd: SELECT NONE
+[2024.11.04-04.06.09:228][227]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.KillZVolume
+[2024.11.04-04.06.09:228][227]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.KillZVolume
+[2024.11.04-04.06.09:229][227]LogActorFactory: Actor Factory spawned Class /Script/Engine.KillZVolume as actor: KillZVolume /Game/FirstPerson/Maps/AngusTesticle.AngusTesticle:PersistentLevel.KillZVolume_UAID_00BE43BC50EE382C02_1197166817
+[2024.11.04-04.06.09:230][227]LogActorFactory: Actor Factory spawned Class /Script/Engine.KillZVolume as actor: KillZVolume /Game/FirstPerson/Maps/AngusTesticle.AngusTesticle:PersistentLevel.KillZVolume_UAID_00BE43BC50EE382C02_1197166817
+[2024.11.04-04.06.14:749][876]Cmd: DELETE
+[2024.11.04-04.06.14:749][876]Cmd: ACTOR DELETE
+[2024.11.04-04.06.14:750][876]LogEditorActor: Deleted Actor: KillZVolume
+[2024.11.04-04.06.14:763][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.11.04-04.06.14:764][876]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.11.04-04.06.17:936][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.11.04-04.06.17:936][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.11.04-04.06.17:938][221]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/AngusTesticle.AngusTesticle:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE382C02_1205874818
+[2024.11.04-04.06.17:941][221]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/AngusTesticle.AngusTesticle:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE382C02_1205874818
+[2024.11.04-04.06.19:203][342]LogShaderCompilers: Error: SCW 1 Queued Jobs, Finished 0 single jobs
+[2024.11.04-04.06.19:203][342]LogShaderCompilers: Error: Job 0 [Single] Failed: BasicShapeMaterial_a182fbeb87cca375/Default/FLocalVertexFactory/TBasePassPSFNoLightMapPolicy/0:/Engine/Private/BasePassPixelShader.usf|MainPS VF 'FLocalVertexFactory' Type 'TBasePassPSFNoLightMapPolicy' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2024.11.04-04.06.19:223][343]LogShaderCompilers: Error: ShaderCompileWorker crashed!
+Assertion failed: Handle [File:D:\build\++UE5\Sync\Engine\Source\Developer\ShaderCompilerCommon\Private\DXCWrapper.cpp] [Line: 76] 
+Failed to load module: ../../../Engine/Binaries/ThirdParty/ShaderConductor/Win64/dxcompiler.dll
+
+0x00007ff9b59ca061 ShaderCompileWorker-ShaderCompilerCommon.dll!FDxcModuleWrapper::FDxcModuleWrapper() []
+0x00007ff986af98d5 ShaderCompileWorker-ShaderFormatD3D.dll!InitializeModule() []
+0x00007ff934d0682b ShaderCompileWorker-Core.dll!FModuleManager::LoadModuleWithFailureReason() []
+0x00007ff934d05bbf ShaderCompileWorker-Core.dll!FModuleManager::LoadModuleChecked() []
+0x000000014001ae3e ShaderCompileWorker.exe!GetShaderFormats() []
+
+
+
+
+[2024.11.04-04.06.19:223][343]LogShaderCompilers: Error: File path: "C:/Users/s5287338/AppData/Local/Temp/UnrealShaderWorkingDir/6BE3604F4F4EB0326D007180FED305A3/1/WorkerOutputOnly.out"
+Expecting single job header ID 0x00000053, got 0x00000000 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+
+[2024.11.04-04.06.22:167][664]Message dialog closed, result: Ok, title: Corrupted ShaderCompileWorker output file, text: File path: "C:/Users/s5287338/AppData/Local/Temp/UnrealShaderWorkingDir/6BE3604F4F4EB0326D007180FED305A3/1/WorkerOutputOnly.out"
+Expecting single job header ID 0x00000053, got 0x00000000 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+[2024.11.04-04.06.22:167][664]LogWindows: FPlatformMisc::RequestExit(0, ShaderCompiler.ModalErrorOrLog)
+[2024.11.04-04.06.22:167][664]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0, ShaderCompiler.ModalErrorOrLog)
+[2024.11.04-04.06.22:167][664]LogCore: Engine exit requested (reason: Win RequestExit)
+[2024.11.04-04.06.22:169][664]LogShaderCompilers: Error: File path: "C:/Users/s5287338/AppData/Local/Temp/UnrealShaderWorkingDir/6BE3604F4F4EB0326D007180FED305A3/1/WorkerOutputOnly.out"
+Expecting 1 single job, got 0 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+
